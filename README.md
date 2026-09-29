@@ -38,5 +38,5 @@ Estudante de Ciência de Dados com base sólida em programação Python, anális
 
 ## Contato
 
-- **LinkedIn:** [linkedin.com/in/henrique-bering-376244359](https://www.linkedin.com/in/henrique-bering-376244359/)
+- **LinkedIn:** [linkedIn](https://www.linkedin.com/in/henrique-bering-376244359/)
 - **E-mail:** riquemoura.bering@gmail.com
