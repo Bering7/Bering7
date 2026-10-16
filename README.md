@@ -4,12 +4,6 @@
 
 Estudante de Ciência de Dados com base sólida em programação Python, análise exploratória e automação de processos. Meu foco é transformar dados brutos em insights aplicáveis e desenvolver soluções eficientes orientadas a dados. Busco oportunidades de estágio para aplicar minhas habilidades técnicas na prática.
 
-## Sobre Mim
-- **Formação:** Cursando o 2º semestre de Ciência de Dados & Machine Learning no UniCEUB (Previsão: Jun/2029).
-- **Objetivo:** Estágio em Ciência de Dados, Análise de Dados ou Desenvolvimento Python.
-- **Aperfeiçoamento:** Certificado no CS50P (Introduction to Programming with Python) por Harvard (EdX) e formação completa em Python pelo Curso em Vídeo.
-- **Localização:** Brasília, DF (Disponibilidade para modelos remoto, híbrido ou presencial).
-
 ## Tecnologias e Ferramentas
 
 **Linguagens & Fundamentos**
